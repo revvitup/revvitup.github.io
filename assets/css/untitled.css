@@ -73,7 +73,7 @@
   #left_bus {
     background-image: url(../../assets/img/small_bus.png);
     width: 100%;
-    background-size: cover;
+    background-size: contain;
     height: 350px;
   }
 }
@@ -82,7 +82,7 @@
   #right_bus {
     background-image: url(../../assets/img/large4.png);
     width: 100%;
-    background-size: cover;
+    background-size: contain;
     height: 350px;
   }
 }
