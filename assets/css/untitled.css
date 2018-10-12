@@ -50,13 +50,13 @@
 
 @media (min-width: 320px) and (max-width:415px) {
   header.masthead .header-content h1 {
-    font-size: 17px;
+    font-size: 22px;
   }
 }
 
 @media (min-width: 300px) and (max-width:768px) {
   #lead_image {
-    height: 150px;
+    height: 240px;
   }
 }
 
